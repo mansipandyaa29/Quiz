@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1520869432 source:c:\users\bharat\desktop\codes\quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1520869574 source:c:\users\bharat\desktop\codes\quiz1\main.c
+	<stdio.h>
+	<stdlib.h>
+
